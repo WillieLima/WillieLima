@@ -32,14 +32,20 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=823085
+)&nbsp;
+![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+)&nbsp;
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)&nbsp;![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)&nbsp;![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=823085
-)
-![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
-)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MYSql](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillieLima&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -47,9 +53,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillieLima&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 ## Principais Projetos
-[![Repo-ger-tarefas](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=gerenciador-de-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/meu-projeto)
-[![Repo-sis-estac](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=sistema-de-estacionamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/meu-projeto)
-[![Repo-sis-reserva-hotel](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=sistema-reserva-hotel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/meu-projeto)
-[![Repo-sqlquery-site-filmes](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=site-de-filmes-db&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/meu-projeto)
+[![Repo-ger-tarefas](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=CSharp_Estudos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/CSharp_Estudos)
+[![Repo-sis-estac](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=sistema-de-estacionamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/sistema-de-estacionamento)
+[![Repo-sis-reserva-hotel](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=sistema-reserva-hotel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/sistema-reserva-hotel)
+[![Repo-sqlquery-site-filmes](https://github-readme-stats.vercel.app/api/pin/?username=WillieLima&repo=site-de-filmes-db&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WillieLima/site-de-filmes-db)
 
 
