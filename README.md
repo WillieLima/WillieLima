@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/willie_lima_lvs) 
+<!-- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/willie_lima_lvs) -->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/willielima/)
 <img align="right" src="https://komarev.com/ghpvc/?username=WillieLima&style=flat-square" height="25" /> &nbsp;
